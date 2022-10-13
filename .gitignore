@@ -1,7 +1,7 @@
 *.zip
 *.csv
 .DS_Store
-
+*Solution*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
